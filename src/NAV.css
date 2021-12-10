@@ -1,0 +1,25 @@
+.nav
+{
+    background-color: black;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+a
+{
+    color: grey;
+    padding: 20px;
+    display: flex;
+    justify-content: flex-end;
+}
+a:hover
+{
+    color: white;
+}
+p 
+{
+    float: left;
+    color: white;
+}
+

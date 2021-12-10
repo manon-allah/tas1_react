@@ -1,0 +1,35 @@
+.blog
+{
+    display: flex;
+    justify-content: flex-start;
+}
+.photo
+{
+    margin: 60px;
+    width: 900px;
+    height: 400px;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 8vw;
+}
+#paragraph
+{
+    color: rgb(173, 173, 173);
+
+}
+h1
+{
+    font-size: 4vw;
+}
+.text
+{
+    width: 50%;
+    flex-wrap: wrap;   
+
+}
+.text>div>p
+{
+    color: black;
+}
